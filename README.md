@@ -8,13 +8,15 @@ Bounties are sorted by age of bounty, newest on the top.
 
 > first FOSS wallet that integrates BOLT 12
 
-[Details](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
+[Details](https://hrf.org/strike-hrf-bounty)
 
 #### Resources
 
 [Bolt 12](http://www.bolt12.org)
 
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
+
+[Bitcoin Mag](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 
 
 ## Stabilized Lightning: 1 BTC
@@ -24,7 +26,7 @@ Bounties are sorted by age of bounty, newest on the top.
 
 > Bonus points if the mechanism that the user interacts with to ‘peg’ their Bitcoin to USD is a slick slider
 
-[Details](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
+[Details](https://hrf.org/strike-hrf-bounty)
 
 #### Resources
 
@@ -34,12 +36,14 @@ Bounties are sorted by age of bounty, newest on the top.
 
 [Contract for difference](https://en.wikipedia.org/wiki/Contract_for_difference)
 
+[Bitcoin Mag](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
+
 ## E-Cash: 1 BTC
 **January 2022, expires December 2022** 
 
 > first FOSS wallet that integrates payments using Chaumian e-cash
 
-[Details](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
+[Details](https://hrf.org/strike-hrf-bounty)
 
 #### Resources
 
@@ -48,6 +52,8 @@ Bounties are sorted by age of bounty, newest on the top.
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
 
 [Citadel Dispatch e45 – the future of mobile lightning wallets with @ericsirion, @akumaigorodski, and @fiatjaf](https://citadeldispatch.com/cd45/)
+
+[Bitoin Mag](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 
 
 ## Find bug in OP_CTV: ~5.5 BTC
