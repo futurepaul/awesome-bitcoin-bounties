@@ -2,6 +2,7 @@ One of those link dumps with an "awesome" prefix. This one is for collecting act
 
 Bounties are sorted by age of bounty, newest on the top.
 
+
 ## Lightning Tip Jar: 1 BTC
 **January 2022, expires December 2022** 
 
@@ -64,6 +65,22 @@ Bounties are sorted by age of bounty, newest on the top.
 #### Resources
 
 [Current State of Lightning Network Privacy](https://abytesjourney.com/lightning-privacy/)
+
+
+## Find bug in OP_CTV: ~5.5 BTC
+**December 2021**
+
+> find a substantial bug in CTV implementation or BIP.
+
+> If you don't find anything consider leaving review feedback!
+
+[Details](https://twitter.com/JeremyRubin/status/1476007963403767808)
+
+#### Resources
+
+[BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
+
+[Jeremy Rubin's Blog](https://rubin.io/blog/)
 
 
 ## Web UI for JoinMarket: ~50 milllion sats
