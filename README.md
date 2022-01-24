@@ -106,3 +106,14 @@ Bounties are sorted by age of bounty, newest on the top.
 [The Simple Lightning Newsletter](https://simplelightning.com)
 
 [Bitcoin Tech Talk](https://jimmysong.substack.com)
+
+
+### Kind of like bounties, but without the money
+
+[Bitcoin Problems](https://bitcoinproblems.org)
+
+> A repository of open Bitcoin research problems.
+
+[Bitcoin Acks](https://bitcoinacks.com)
+
+> As a reviewer I want to see which PRs have “momentum” (concept acks from contributors) so that I can prioritize and best use my review time.
