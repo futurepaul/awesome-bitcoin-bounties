@@ -50,6 +50,22 @@ Bounties are sorted by age of bounty, newest on the top.
 [Citadel Dispatch e45 – the future of mobile lightning wallets with @ericsirion, @akumaigorodski, and @fiatjaf](https://citadeldispatch.com/cd45/)
 
 
+## Find bug in OP_CTV: ~5.5 BTC
+**December 2021**
+
+> find a substantial bug in CTV implementation or BIP.
+
+> If you don't find anything consider leaving review feedback!
+
+[Details](https://twitter.com/JeremyRubin/status/1476007963403767808)
+
+#### Resources
+
+[BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
+
+[Jeremy Rubin's Blog](https://rubin.io/blog/)
+
+
 ## Design a Privacy Focused Lightning Network Wallet: 1 BTC
 **November 2021**
 
@@ -65,22 +81,6 @@ Bounties are sorted by age of bounty, newest on the top.
 #### Resources
 
 [Current State of Lightning Network Privacy](https://abytesjourney.com/lightning-privacy/)
-
-
-## Find bug in OP_CTV: ~5.5 BTC
-**December 2021**
-
-> find a substantial bug in CTV implementation or BIP.
-
-> If you don't find anything consider leaving review feedback!
-
-[Details](https://twitter.com/JeremyRubin/status/1476007963403767808)
-
-#### Resources
-
-[BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
-
-[Jeremy Rubin's Blog](https://rubin.io/blog/)
 
 
 ## Web UI for JoinMarket: ~50 milllion sats
