@@ -2,36 +2,6 @@ One of those link dumps with an "awesome" prefix. This one is for collecting act
 
 Bounties are sorted by age of bounty, newest on the top.
 
-## Web UI for JoinMarket: ~50 milllion sats
-### August 2021
-
-> a FOSS web ui so joinmarket can be easily integrated into popular node projects
-
-[Details](https://github.com/JoinMarket-Org/joinmarket-clientserver/issues/978#issuecomment-919254929)
-
-### Active projects
-[JoinMarket Web UI](https://github.com/joinmarket-webui/joinmarket-webui)
-
-### Resources 
-[Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki)
-
-
-## Design a Privacy Focused Lightning Network Wallet: 1 BTC
-### November 202
-
-> 1 BTC will be distributed during Wasabi Wallet’s Lightning Network Privacy Research Grant. We’re looking for researchers and teams of researchers to design the best possible privacy-focused Lightning Network light client. One may apply with a team or individually.
-
-> 0.5 BTC will be given out to the selected research team, while the other...
-> 0.5 BTC will be split between 3 selected individuals to form another research team
-
-> The teams will be selected and rewarded with 0.1 BTC each in March, 2022. Research will continue until the end of the year, 2022. After the research is over, teams will be granted the rest of the reward.
-
-[Details](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
-
-### Resources
-
-[Current State of Lightning Network Privacy](https://abytesjourney.com/lightning-privacy/)
-
 ## Lightning Tip Jar: 1 BTC
 ### January 2022, expires December 2022 
 
@@ -43,6 +13,7 @@ Bounties are sorted by age of bounty, newest on the top.
 
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
 
+
 ## Stabilized Lightning: 1 BTC
 ### January 2022, expires December 2022 
 
@@ -53,6 +24,7 @@ Bounties are sorted by age of bounty, newest on the top.
 ### Resources
 
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
+
 
 ## E-Cash: 1 BTC
 ### January 2022, expires December 2022 
@@ -67,4 +39,36 @@ Bounties are sorted by age of bounty, newest on the top.
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
 
 [Citadel Dispatch e45 – the future of mobile lightning wallets with @ericsirion, @akumaigorodski, and @fiatjaf](https://citadeldispatch.com/cd45/)
+
+
+## Design a Privacy Focused Lightning Network Wallet: 1 BTC
+### November 2021
+
+> 1 BTC will be distributed during Wasabi Wallet’s Lightning Network Privacy Research Grant. We’re looking for researchers and teams of researchers to design the best possible privacy-focused Lightning Network light client. One may apply with a team or individually.
+
+> 0.5 BTC will be given out to the selected research team, while the other...
+> 0.5 BTC will be split between 3 selected individuals to form another research team
+
+> The teams will be selected and rewarded with 0.1 BTC each in March, 2022. Research will continue until the end of the year, 2022. After the research is over, teams will be granted the rest of the reward.
+
+[Details](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
+
+### Resources
+
+[Current State of Lightning Network Privacy](https://abytesjourney.com/lightning-privacy/)
+
+
+## Web UI for JoinMarket: ~50 milllion sats
+### August 2021
+
+> a FOSS web ui so joinmarket can be easily integrated into popular node projects
+
+[Details](https://github.com/JoinMarket-Org/joinmarket-clientserver/issues/978#issuecomment-919254929)
+
+### Active projects
+[JoinMarket Web UI](https://github.com/joinmarket-webui/joinmarket-webui)
+
+### Resources 
+[Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki)
+
 
