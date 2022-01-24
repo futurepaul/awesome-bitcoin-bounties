@@ -3,37 +3,45 @@ One of those link dumps with an "awesome" prefix. This one is for collecting act
 Bounties are sorted by age of bounty, newest on the top.
 
 ## Lightning Tip Jar: 1 BTC
-### January 2022, expires December 2022 
+**January 2022, expires December 2022** 
 
 > first FOSS wallet that integrates BOLT 12
 
 [Details](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 
-### Resources
+#### Resources
+
+[Bolt 12](http://www.bolt12.org)
 
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
 
 
 ## Stabilized Lightning: 1 BTC
-### January 2022, expires December 2022 
+**January 2022, expires December 2022** 
 
 > first FOSS lightning wallet that integrates a USD balance peg
 
+> Bonus points if the mechanism that the user interacts with to ‘peg’ their Bitcoin to USD is a slick slider
+
 [Details](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 
-### Resources
+#### Resources
 
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
 
+[How to claim the 1BTC “Stable Channel” Bounty from HRF and Strike](https://suredbits.com/how-to-claim-the-1btc-stable-channel-bounty-from-hrf-and-strike/)
+
+[Contract for difference](https://en.wikipedia.org/wiki/Contract_for_difference)
 
 ## E-Cash: 1 BTC
-### January 2022, expires December 2022 
+**January 2022, expires December 2022** 
 
 > first FOSS wallet that integrates payments using Chaumian e-cash
 
 [Details](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 
-### Resources
+#### Resources
+
 [Federated Ecash - Bitcoin Explained](https://www.youtube.com/watch?v=alyYNIX0m3o)
 
 [CD48: bitcoin initiatives by @blocks and @spiralbtc with @moneyball](https://citadeldispatch.com/cd48/)
@@ -42,7 +50,7 @@ Bounties are sorted by age of bounty, newest on the top.
 
 
 ## Design a Privacy Focused Lightning Network Wallet: 1 BTC
-### November 2021
+**November 2021**
 
 > 1 BTC will be distributed during Wasabi Wallet’s Lightning Network Privacy Research Grant. We’re looking for researchers and teams of researchers to design the best possible privacy-focused Lightning Network light client. One may apply with a team or individually.
 
@@ -53,22 +61,31 @@ Bounties are sorted by age of bounty, newest on the top.
 
 [Details](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
 
-### Resources
+#### Resources
 
 [Current State of Lightning Network Privacy](https://abytesjourney.com/lightning-privacy/)
 
 
 ## Web UI for JoinMarket: ~50 milllion sats
-### August 2021
+**August 2021**
 
 > a FOSS web ui so joinmarket can be easily integrated into popular node projects
 
 [Details](https://github.com/JoinMarket-Org/joinmarket-clientserver/issues/978#issuecomment-919254929)
 
-### Active projects
+#### Active projects
 [JoinMarket Web UI](https://github.com/joinmarket-webui/joinmarket-webui)
 
-### Resources 
+#### Resources 
 [Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki)
 
 
+---
+
+### Resources full of resources
+
+[Bitcoin Optech](https://bitcoinops.org)
+
+[The Simple Lightning Newsletter](https://simplelightning.com)
+
+[Bitcoin Tech Talk](https://jimmysong.substack.com)
