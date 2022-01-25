@@ -65,11 +65,28 @@ Bounties are sorted by age of bounty, newest on the top.
 
 [Details](https://twitter.com/JeremyRubin/status/1476007963403767808)
 
+[Thread of bounty participants](https://twitter.com/JeremyRubin/status/1477760236115034113)
+
 #### Resources
 
 [BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
 
 [Jeremy Rubin's Blog](https://rubin.io/blog/)
+
+
+## Dark mode for Bitcoin Wallet UI Kit: 100k sats
+
+> wen dark mode
+
+(add dark mode to the UI kit's "screens" page)
+
+[Details](https://twitter.com/abitcoinperson/status/1468478679680385024)
+
+#### Resources
+
+[Bitcoin UI kit dark mode progress](https://www.youtube.com/watch?v=nomVhvEqIm0&feature=youtu.be)
+
+[UI kit how to](https://www.bitcoinuikit.com/info)
 
 
 ## Design a Privacy Focused Lightning Network Wallet: 1 BTC
@@ -102,6 +119,18 @@ Bounties are sorted by age of bounty, newest on the top.
 #### Resources 
 [Wiki](https://github.com/joinmarket-webui/joinmarket-webui/wiki)
 
+
+## interactive-tx for LND: 25 million sats
+
+> implement @niftynei's dual funded lightning proposal in lnd
+
+[Details](https://twitter.com/benthecarman/status/1402079118653526018)
+
+[Nested bounty quote tweets](https://twitter.com/dergigi/status/1402558284394123265)
+
+#### Resources
+
+[interactive-tx: Add dual-funding flow, using the interactive tx protocol (feature 28/29)](https://github.com/lightning/bolts/pull/851)
 
 ---
 
