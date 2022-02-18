@@ -1,6 +1,39 @@
+# awesome-bitcoin-bounties
+
 One of those link dumps with an "awesome" prefix. This one is for collecting active bitcoin bounties and related resources. If you have a bounty or bounty resource, please create an issue or, better yet, a PR! If you're looking for teammates for a particular bounty, feel free to create an issue with the `LFG` tag. LFG issues will be auto-closed after a while, no hard feelings, feel free to reopen if you're still looking.
 
 Bounties are sorted by age of bounty, newest on the top.
+
+## BIP-47 / PayNyms in BlueWallet: ~5.5 million sats
+**February 16**
+
+> Having more wallets support this venmo style method for sending money to your friends would benefit the ecosystem in general
+
+[Details](https://github.com/BlueWallet/BlueWallet/issues/2883)
+
+#### Resources
+
+[BIP-47](https://github.com/bitcoin/bips/blob/master/bip-0047.mediawiki)
+
+[OBPP-05](https://github.com/OpenBitcoinPrivacyProject/rfc/blob/master/obpp-05.mediawiki)
+
+[bip47-js](https://code.samourai.io/dojo/bip47-js)
+
+[rust-bip47](https://github.com/rust-bitcoin/rust-bip47)
+
+[bdk BIP-47 feature request](https://github.com/bitcoindevkit/bdk/issues/549)
+
+
+## Coinkite Tap Protocol library for React Native: $25k (~60 million sats)
+**February 16**
+
+> make it easy to talk to the TAPSIGNER and SATSCARD
+
+[Details](https://twitter.com/nvk/status/1493985018409979906)
+
+#### Resources
+
+[coinkite-tap-proto](https://dev.coinkite.cards)
 
 
 ## Lightning Tip Jar: 1 BTC
