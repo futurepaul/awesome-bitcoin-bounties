@@ -4,6 +4,21 @@ One of those link dumps with an "awesome" prefix. This one is for collecting act
 
 Bounties are sorted by age of bounty, newest on the top.
 
+
+## SeedSigner touchscreen display driver: 1 million sats
+**February 18**
+
+> a technical demo that makes the (2.8-inch 480×640 Waveshare LCD) compatible with Python/PIL rendering + touch interaction
+
+[Details](https://twitter.com/SeedSigner/status/1494778322240393224)
+
+#### Resources
+
+[Waveshare](https://www.waveshare.com/2.8inch-DPI-LCD.htm)
+
+[Amazon](https://www.amazon.com/dp/B08LYYDH8Y/)
+
+
 ## BIP-47 / PayNyms in BlueWallet: ~5.5 million sats
 **February 16**
 
