@@ -1,3 +1,5 @@
+# DEPRECATED IN FAVOR OF https://bitcoinbounties.org
+
 # awesome-bitcoin-bounties
 
 One of those link dumps with an "awesome" prefix. This one is for collecting active bitcoin bounties and related resources. If you have a bounty or bounty resource, please create an issue or, better yet, a PR! If you're looking for teammates for a particular bounty, feel free to create an issue with the `LFG` tag. LFG issues will be auto-closed after a while, no hard feelings, feel free to reopen if you're still looking.
